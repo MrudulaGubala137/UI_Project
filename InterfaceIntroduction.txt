@@ -1,0 +1,29 @@
+user Interface:
+a point at which human users interact with a computer, website or application.
+
+the goal of effective user interface is to make the user experience easy and interactive.
+It requires minimum effort on the users part and to receive maximum desired output.
+
+Types of user interface
+1. Form based user interface 
+the user enters the data into the program or in application.
+ex: User registration form.
+
+2. Graphical user interface:
+where user interface input with a visual interface output.
+ex: keyboard and monitor.
+
+3. Menu driven user interface:
+this user interface that uses the list of choices to navigate within a program or website.
+
+4. Touch UI:
+this user interface is through haptic or touch.
+ex: Smart phones, Tablets,etc.
+
+5.Voice interface:
+this interface is interaction between humans and machine using voice commands.
+ex: GPS, Virtual assistant(Google assistant).
+
+Canvas:
+Canvas is the area that all user interface elements should be inside.
+
